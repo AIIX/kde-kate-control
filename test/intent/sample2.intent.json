@@ -1,0 +1,7 @@
+{
+  "utterance": "close",
+  "intent_type": "KateFileCloseKeywordIntent",
+  "intent": {
+    "InternalKateFileCloseKeyword": "current file"
+  }
+}

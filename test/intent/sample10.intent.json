@@ -1,0 +1,7 @@
+{
+  "utterance": "show",
+  "intent_type": "KateOptionsConfigIntent",
+  "intent": {
+    "InternalKateOptionsConfigKeyword": "config"
+  }
+}

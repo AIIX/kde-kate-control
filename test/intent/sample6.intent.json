@@ -1,0 +1,7 @@
+{
+  "utterance": "split view",
+  "intent_type": "KateSplitViewVertKeywordIntent",
+  "intent": {
+    "InternalKateSplitViewVertKeyword": "vertically"
+  }
+}

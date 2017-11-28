@@ -1,0 +1,7 @@
+{
+  "utterance": "next",
+  "intent_type": "KateSplitViewGoNextKeywordIntent",
+  "intent": {
+    "InternalKateSplitViewGoNextKeyword": "view"
+  }
+}

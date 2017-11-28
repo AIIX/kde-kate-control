@@ -1,0 +1,7 @@
+{
+  "utterance": "previous",
+  "intent_type": "KateSplitViewGoPrevKeywordIntent",
+  "intent": {
+    "InternalKateSplitViewGoPrevKeyword": "view"
+  }
+}

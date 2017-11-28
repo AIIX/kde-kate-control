@@ -1,0 +1,7 @@
+{
+  "utterance": "save",
+  "intent_type": "KateFileSaveAllKeywordIntent",
+  "intent": {
+    "InternalKateFileSaveAllKeyword": "all documents"
+  }
+}

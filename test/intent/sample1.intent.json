@@ -1,0 +1,7 @@
+{
+  "utterance": "create",
+  "intent_type": "KateFileNewKeywordIntent",
+  "intent": {
+    "InternalKateFileNewKeyword": "new file"
+  }
+}
