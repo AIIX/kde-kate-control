@@ -1,5 +1,5 @@
 ## KDE-Kate-Control
-This skill enables an user to control the Kate client on the Desktop.
+This skill enables an user to control the [Kate editor client](https://www.kde.org/applications/utilities/kate/) on the Desktop.
 
 ## Description 
 #### Installation of skill:
